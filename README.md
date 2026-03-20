@@ -1,2 +1,3 @@
-# next-security-scanner-gd7v
-Automated issue comment bot repository
+# Next Security Scanner Gd7V
+
+Automated issue comment bot repository.
